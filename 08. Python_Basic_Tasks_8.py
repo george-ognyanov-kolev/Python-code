@@ -1,2 +1,0 @@
-# Write a function for converting USD to BGN, round the results to two digits after the decimal point. 
-# Use the fixed exchange rate of 1 USD = 1.79549 BGN. Function must accept the source currency and source amount as parameters.
